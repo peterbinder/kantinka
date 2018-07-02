@@ -1,7 +1,8 @@
 {
   "name": "front-end",
   "engines": {
-    "node": "8.11.2"
+    "node": "8.11.2",
+    "npm": "6.1.0"
   },
   "version": "0.1.0",
   "private": true,
